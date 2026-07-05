@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm **Mukesh Prajapat**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;AI%2FML+Integrator;SAP+Analytics+Automation+Specialist;Open+Source+Contributor" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;AI%2FML+Integrator;SAP+Automation+Specialist;Open+Source+Contributor" alt="typing"/>
 
 <br/>
 
@@ -30,8 +30,8 @@
 
 > I'm a **Full-Stack Engineer** passionate about building scalable web applications and integrating **AI/ML** solutions into real-world products. I specialize in **SAP Analytics & Automation**, bridging the gap between enterprise data and intelligent automation.
 
-- 🔭 Currently working on **AI-powered automation tools** and **SAP Analytics Cloud** integrations
-- 🌱 Learning **LLM Orchestration**, **Vector Databases**, and **Advanced SAP BTP**
+- 🔭 Currently working on **AI-powered automation tools** for SAP Systems
+- 🌱 Learning **LLM Orchestration**, **Vector Databases**, and **MCP Development**
 - 💬 Ask me about **React, Node.js, Python, SAP Analytics, AI/ML Integration**
 - 📫 Reach me at: **mukeshprajapat3093@gmail.com**
 - 🌐 Portfolio: **[mukeshprajapat.vercel.app](https://mukeshprajapat.vercel.app/)**
