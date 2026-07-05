@@ -101,10 +101,14 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=meleo2125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
+      <!-- GitHub Stats -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mukeshprajapat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+
+
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meleo2125&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="100%"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mukeshprajapat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
