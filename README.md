@@ -85,11 +85,11 @@
 
 ### 🏢 SAP & Enterprise
 <p>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Datasphere"/>
+  <img src="https://img.shields.io/badge/SAP_Datasphere-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Datasphere"/>
   <img src="https://img.shields.io/badge/SAP_Analytics_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Analytics Cloud"/>
-  <img src="https://img.shields.io/badge/SAP_BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BW/HANA"/>
-  <img src="https://img.shields.io/badge/SAP_Analytics_Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BusinessObjects"/>
-  <img src="https://img.shields.io/badge/SAP_BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP CPIDS"/>
+  <img src="https://img.shields.io/badge/SAP_BW/HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BW/HANA"/>
+  <img src="https://img.shields.io/badge/SAP_BusinessObjects-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BusinessObjects"/>
+  <img src="https://img.shields.io/badge/SAP_CPIDS-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP CPIDS"/>
 </p>
 
 ---
